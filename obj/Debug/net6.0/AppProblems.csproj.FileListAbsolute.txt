@@ -1,0 +1,14 @@
+D:\workspace\Project Testing\sharp\Testing\AppProblems\bin\Debug\net6.0\AppProblems.exe
+D:\workspace\Project Testing\sharp\Testing\AppProblems\bin\Debug\net6.0\AppProblems.deps.json
+D:\workspace\Project Testing\sharp\Testing\AppProblems\bin\Debug\net6.0\AppProblems.runtimeconfig.json
+D:\workspace\Project Testing\sharp\Testing\AppProblems\bin\Debug\net6.0\AppProblems.dll
+D:\workspace\Project Testing\sharp\Testing\AppProblems\bin\Debug\net6.0\AppProblems.pdb
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.AssemblyInfoInputs.cache
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.AssemblyInfo.cs
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.csproj.CoreCompileInputs.cache
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.dll
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\refint\AppProblems.dll
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.pdb
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\AppProblems.genruntimeconfig.cache
+D:\workspace\Project Testing\sharp\Testing\AppProblems\obj\Debug\net6.0\ref\AppProblems.dll
