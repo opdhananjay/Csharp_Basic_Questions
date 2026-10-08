@@ -38,10 +38,11 @@ BasicSharp01 basicSharp01 = new BasicSharp01();
 
 // basicSharp01.CheckLeapYear(2026);
 
+//BasicSharpLoops01 basicSharpLoops01 = new BasicSharpLoops01();
+//basicSharpLoops01.FindSmallestDigit(1257359811);
 
-BasicSharpLoops01 basicSharpLoops01 = new BasicSharpLoops01();
-basicSharpLoops01.FindSmallestDigit(1257359811);
-
+BasicSharpPattern01 basicSharpPattern01 = new BasicSharpPattern01();
+basicSharpPattern01.PrintPattern05(5);  
 
 Console.ReadLine();
 

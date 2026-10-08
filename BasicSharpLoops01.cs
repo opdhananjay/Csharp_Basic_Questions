@@ -138,7 +138,5 @@ namespace AppProblems
             Console.WriteLine($"Smallest digit is {smallest}");
         }
 
-
-
     }
 }
